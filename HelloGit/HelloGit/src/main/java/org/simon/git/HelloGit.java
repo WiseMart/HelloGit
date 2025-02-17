@@ -15,5 +15,7 @@ public class HelloGit {
         System.out.println("Hello Git!! create new branch");
         System.out.println("Hello Git!! update master branch");
         System.out.println("Hello Git!! update dev branch");
+
+        System.out.println("Hello Git!! update on github");
     }
 }
